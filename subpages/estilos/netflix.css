@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    background-size: cover;
+}
+
+h1{
+    font-family: netflix;
+    text-align: center;
+    color: red;
+    padding: 16%;
+    font-size: 700%;
+}
+@font-face {
+    font-family: netflix;  
+    src: url("../estilos/netflix.ttf");
+
+}

@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    background-size: cover;
+}
+h1{
+    font-family: disney;
+    text-align: center;
+    color: rgb(7, 56, 56);
+    padding: 16%;
+    font-size: 700%;
+}
+@font-face {
+    font-family: disney;
+    src: url(../estilos/disney.ttf);
+    
+}
