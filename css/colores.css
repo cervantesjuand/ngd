@@ -1,0 +1,35 @@
+body{
+    background-image: url("../imagen/vincent.jpg");
+}
+.contenedor{
+    display: flex;
+    margin-left: 355px;
+    margin-top: 200px;
+    text-align: center;
+    
+}
+.contenedor1{
+    width: 200px;
+    height: 200px;
+    background-color: #418bca;
+    background-size: cover;
+    margin-left: 12px;
+}
+.contenedor2{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(238,175,29,255) ;
+    background-size: cover;
+    margin-left: 12px;
+}
+.contenedor3{
+    width: 200px;
+    height: 200px;
+    background-color: #182526;
+    background-size: cover;
+    margin-left: 12px;
+}
+p{
+    padding-top: 70px;
+    color:brown ;
+}
