@@ -4,6 +4,20 @@ body{
 }
 h1 {
     text-align: center;
+<<<<<<< HEAD
+=======
+    font-size: 40px;
+    text-decoration: none;
+    color: 	rgb(24, 24, 37);
+    font-family: colores;
+}
+
+.division1 h2 a{
+    text-decoration: none;
+    left: 185px;
+    position: absolute;
+    top: 610px;
+>>>>>>> 94f6baba1e148e61dbea5264174a9f3a1a31a742
     font-size: 50px;
     font-family: Call of duty;
 }
@@ -30,8 +44,28 @@ h2 {
     color: 
     #9f8e7a;
 }
+<<<<<<< HEAD
 .border a{
     text-decoration: none;
     color: 
     #9f8e7a;
 }
+=======
+
+.colores h2{
+    padding-top: 500px;
+    text-align: center;
+    color: black;
+    font-size: 100px;
+    font-family: colores;
+}
+
+.colores a{
+    text-decoration: none;
+}
+
+@font-face{
+    font-family: colores;
+    src: url("../Fuentes/Call\ of\ Ops\ Duty.otf");
+}
+>>>>>>> 94f6baba1e148e61dbea5264174a9f3a1a31a742
