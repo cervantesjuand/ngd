@@ -11,6 +11,6 @@ h1{
 }
 @font-face {
     font-family: disney;
-    src: url(../estilos/disney.ttf);
+    src: url("../Fuentes/disney.otf");
     
 }

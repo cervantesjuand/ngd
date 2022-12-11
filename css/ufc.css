@@ -1,0 +1,11 @@
+body{
+    background-image: url("../imagen/CainVelazques.jpg");
+}
+.titulo {
+    color: antiquewhite;
+    text-decoration: none ;
+}
+.division h2 a{
+    color:whitesmoke ;
+    text-decoration: none;
+}

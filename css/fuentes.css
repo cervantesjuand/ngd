@@ -1,0 +1,40 @@
+body {
+    background-image: url("../imagen/padrino.jpg");
+    background-size: cover;
+}
+.titulo {
+    font-size: 70px;
+    text-align: center;
+    color: whitesmoke;
+    
+}
+.fuente-netflix a {
+    text-decoration: none;
+    font-size: 35px;
+    color: red;
+    font-family: Netflix;
+}
+    @font-face {
+        font-family: Netflix;
+        src: url("../Fuentes/netflix.ttf");
+    }
+.fuente-game a {
+    text-decoration: none;
+    font-size: 35px;
+    color: gainsboro;
+    font-family: Game;
+}
+    @font-face {
+        font-family: Game;
+        src: url("../Fuentes/game.ttf");
+    }
+.fuente-disney a{
+    text-decoration: none;
+    font-size: 35px;
+    color: aqua;
+    font-family: Disney;
+}
+    @font-face {
+        font-family: Disney;
+        src: url("../Fuentes/disney.otf");
+    }

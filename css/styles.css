@@ -1,86 +1,37 @@
 body{
-    background-image: url("../imagen/walllll.jpg"); 
+    background-image: url("../imagen/fellbad.jpg"); 
     background-size: cover;
 }
-.titulo{
+h1 {
     text-align: center;
-    font-size: 40px;
-    text-decoration: none;
-    color: 	rgb(24, 24, 37);
-}
-
-.division1 h2 a{
-    text-decoration: none;
-    left: 185px;
-    position: absolute;
-    top: 610px;
     font-size: 50px;
+    font-family: Call of duty;
 }
-.division1 h2 a{
-    text-decoration: none;
-    color: red;
-    font-family: netflix;
+@font-face {
+    font-family: Call of duty;
+    src: url("../Fuentes/Call\ of\ Ops\ Duty.otf");
 }
-@font-face{
-    font-family: netflix;
-    src: url("../subpages/estilos/netflix.ttf");
-}
-.division1 img{
-    width: 300px;
-    height: 400px;
-    top: 200px;
-    position: absolute;
-    left: 100px;
-    border-radius: 6%;
-}
-
-.division2 h2{
-    text-decoration: none;
-    left: 540px;
-    position: absolute;
-    top: 610px;
-} 
-.division2 h2 a{
-    text-decoration: none;
-    color: gray;
-    font-family: game;
-}
-@font-face{
-    font-family: game;
-    src: url("../subpages/estilos/game.ttf");
-}
-.division2 img{
-    width: 300px;
-    height: 400px;
-    top: 200px;
-    position: absolute;
-    left: 525px;
-    border-radius: 6%;
-}
-
-.division3 h2{
-    text-decoration: none;
-    right: 200px;
-    position: absolute;
-    top: 590px;
+h2 {
     font-size: 30px;
+    color: 
+    #9f8e7a;
 }
-.division3 h2 a{
+.fuente-especial2 {
+    color: 
+    #9f8e7a;
+}
+.fuente-especial a {
     text-decoration: none;
-    color: aqua;
-    font-family: disney;
-    font-size: 35px;
-    
+    color: 
+    #9f8e7a;
 }
-@font-face{
-    font-family: disney;
-    src: url("../Fuentes/disney.otf");
+.fuente-colores a {
+    text-decoration: none;
+    color: 
+    #9f8e7a;
 }
-.division3 img{
-    width: 300px;
-    height: 400px;
-    top: 200px;
-    right: 100px;
-    position: absolute;
-    border-radius: 6%;
+.border a{
+    text-decoration: none;
+    color: 
+    #9f8e7a;
 }
